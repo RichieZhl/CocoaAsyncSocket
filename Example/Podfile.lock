@@ -1,0 +1,16 @@
+PODS:
+  - CocoaAsyncSocket (0.1.0)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket (from `../`)
+
+EXTERNAL SOURCES:
+  CocoaAsyncSocket:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 76ab6a5c3c01bfe9dacea699edca5b2b51009e3c
+
+PODFILE CHECKSUM: 588e895478774a8f5eda6e44c827e03b08ab6d35
+
+COCOAPODS: 1.8.4
